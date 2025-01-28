@@ -1,5 +1,24 @@
-#  About Me:
-Hi there, I'm Ujjwal! 👋<br>I'm a passionate final-year B.Tech student at IIIT Allahabad, specializing in Information Technology. With a strong foundation in software development, full-stack engineering, and AI/ML, I thrive on creating impactful projects and solving challenging problems.<br><br>🌟 <br>Achievements: Hackathon Winner (IIT Hyderabad), Codeforces Specialist, LeetCode Knight<br>🌱 Currently Learning<br>Angular, RxJS, and PrimeNG to expand my front-end expertise.<br><br>🔗 Let's Connect<br>Thanks for stopping by! 🚀
+# About Me  
+Hi there, I'm **Ujjwal**! 👋  
+I'm a passionate final-year **B.Tech student at IIIT Allahabad**, specializing in **Information Technology**. With a strong foundation in **software development, full-stack engineering, and AI/ML**, I enjoy building impactful projects and tackling challenging problems.  
+
+---
+
+🌟 **Achievements**  
+- 🏆 **Hackathon Winner** (IIT Hyderabad)  
+- ⚡ **Codeforces Specialist**  
+- 🚀 **LeetCode Knight**  
+
+---
+
+🌱 **Currently Learning**  
+- Exploring **Angular**, **RxJS**, and **PrimeNG** to enhance my front-end development skills.  
+
+---
+
+🔗 **Let's Connect**  
+Thanks for stopping by! 🚀  
+
 
 
 ## 🌐 Socials:
